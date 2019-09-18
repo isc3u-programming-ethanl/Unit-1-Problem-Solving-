@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\bin\Debug\ChangingAreaPerEthan.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\bin\Debug\ChangingAreaPerEthan.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\bin\Debug\ChangingAreaPerEthan.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\obj\Debug\ChangingAreaPerEthan.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\obj\Debug\ChangingAreaPerEthan.frmChangingAreaPer.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\obj\Debug\ChangingAreaPerEthan.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\obj\Debug\ChangingAreaPerEthan.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\obj\Debug\ChangingAreaPerEthan.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\obj\Debug\ChangingAreaPerEthan.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\ChangingAreaPerEthan\ChangingAreaPerEthan\obj\Debug\ChangingAreaPerEthan.pdb

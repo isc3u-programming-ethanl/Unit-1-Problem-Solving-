@@ -30,17 +30,19 @@
         {
             this.components = new System.ComponentModel.Container();
             this.mnuMusicGenres = new System.Windows.Forms.MenuStrip();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.musicGenresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mniHipHopMusic = new System.Windows.Forms.ToolStripMenuItem();
             this.mniTrapMusic = new System.Windows.Forms.ToolStripMenuItem();
             this.mniRnBMusic = new System.Windows.Forms.ToolStripMenuItem();
             this.mniSoundCloudMusic = new System.Windows.Forms.ToolStripMenuItem();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.grbMusicGenres = new System.Windows.Forms.GroupBox();
-            this.lblHipHopHeading = new System.Windows.Forms.Label();
+            this.picArtist = new System.Windows.Forms.PictureBox();
             this.lblHipHopSubtext = new System.Windows.Forms.Label();
+            this.lblHipHopHeading = new System.Windows.Forms.Label();
             this.mnuMusicGenres.SuspendLayout();
             this.grbMusicGenres.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picArtist)).BeginInit();
             this.SuspendLayout();
             // 
             // mnuMusicGenres
@@ -52,11 +54,6 @@
             this.mnuMusicGenres.Size = new System.Drawing.Size(800, 24);
             this.mnuMusicGenres.TabIndex = 0;
             this.mnuMusicGenres.Text = "menuStrip1";
-            // 
-            // contextMenuStrip1
-            // 
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
             // musicGenresToolStripMenuItem
             // 
@@ -72,55 +69,78 @@
             // mniHipHopMusic
             // 
             this.mniHipHopMusic.Name = "mniHipHopMusic";
-            this.mniHipHopMusic.Size = new System.Drawing.Size(180, 22);
+            this.mniHipHopMusic.Size = new System.Drawing.Size(140, 22);
             this.mniHipHopMusic.Text = "Hip Hop";
+            this.mniHipHopMusic.Click += new System.EventHandler(this.MniHipHopMusic_Click);
             // 
             // mniTrapMusic
             // 
             this.mniTrapMusic.Name = "mniTrapMusic";
-            this.mniTrapMusic.Size = new System.Drawing.Size(180, 22);
+            this.mniTrapMusic.Size = new System.Drawing.Size(140, 22);
             this.mniTrapMusic.Text = "Trap";
+            this.mniTrapMusic.Click += new System.EventHandler(this.MniTrapMusic_Click);
             // 
             // mniRnBMusic
             // 
             this.mniRnBMusic.Name = "mniRnBMusic";
-            this.mniRnBMusic.Size = new System.Drawing.Size(180, 22);
+            this.mniRnBMusic.Size = new System.Drawing.Size(140, 22);
             this.mniRnBMusic.Text = "RnB";
+            this.mniRnBMusic.Click += new System.EventHandler(this.MniRnBMusic_Click);
             // 
             // mniSoundCloudMusic
             // 
             this.mniSoundCloudMusic.Name = "mniSoundCloudMusic";
-            this.mniSoundCloudMusic.Size = new System.Drawing.Size(180, 22);
+            this.mniSoundCloudMusic.Size = new System.Drawing.Size(140, 22);
             this.mniSoundCloudMusic.Text = "SoundCloud";
+            this.mniSoundCloudMusic.Click += new System.EventHandler(this.MniSoundCloudMusic_Click);
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
             // grbMusicGenres
             // 
+            this.grbMusicGenres.Controls.Add(this.picArtist);
             this.grbMusicGenres.Controls.Add(this.lblHipHopSubtext);
             this.grbMusicGenres.Controls.Add(this.lblHipHopHeading);
+            this.grbMusicGenres.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.grbMusicGenres.Location = new System.Drawing.Point(166, 83);
             this.grbMusicGenres.Name = "grbMusicGenres";
-            this.grbMusicGenres.Size = new System.Drawing.Size(409, 251);
+            this.grbMusicGenres.Size = new System.Drawing.Size(570, 355);
             this.grbMusicGenres.TabIndex = 2;
             this.grbMusicGenres.TabStop = false;
             this.grbMusicGenres.Text = "Music Genres";
             // 
-            // lblHipHopHeading
+            // picArtist
             // 
-            this.lblHipHopHeading.AutoSize = true;
-            this.lblHipHopHeading.Location = new System.Drawing.Point(58, 65);
-            this.lblHipHopHeading.Name = "lblHipHopHeading";
-            this.lblHipHopHeading.Size = new System.Drawing.Size(46, 13);
-            this.lblHipHopHeading.TabIndex = 0;
-            this.lblHipHopHeading.Text = "Hip Hop";
+            this.picArtist.Image = global::FavouriteMusicGenresEthanL.Properties.Resources.Kanye;
+            this.picArtist.Location = new System.Drawing.Point(130, 154);
+            this.picArtist.Name = "picArtist";
+            this.picArtist.Size = new System.Drawing.Size(327, 201);
+            this.picArtist.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picArtist.TabIndex = 3;
+            this.picArtist.TabStop = false;
             // 
             // lblHipHopSubtext
             // 
             this.lblHipHopSubtext.AutoSize = true;
-            this.lblHipHopSubtext.Location = new System.Drawing.Point(170, 113);
+            this.lblHipHopSubtext.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHipHopSubtext.Location = new System.Drawing.Point(197, 107);
             this.lblHipHopSubtext.Name = "lblHipHopSubtext";
-            this.lblHipHopSubtext.Size = new System.Drawing.Size(65, 13);
+            this.lblHipHopSubtext.Size = new System.Drawing.Size(181, 33);
             this.lblHipHopSubtext.TabIndex = 1;
             this.lblHipHopSubtext.Text = "Kanye West";
+            // 
+            // lblHipHopHeading
+            // 
+            this.lblHipHopHeading.AutoSize = true;
+            this.lblHipHopHeading.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHipHopHeading.Location = new System.Drawing.Point(219, 46);
+            this.lblHipHopHeading.Name = "lblHipHopHeading";
+            this.lblHipHopHeading.Size = new System.Drawing.Size(148, 39);
+            this.lblHipHopHeading.TabIndex = 0;
+            this.lblHipHopHeading.Text = "Hip Hop";
             // 
             // frmFavouriteMusicGenres
             // 
@@ -136,6 +156,7 @@
             this.mnuMusicGenres.PerformLayout();
             this.grbMusicGenres.ResumeLayout(false);
             this.grbMusicGenres.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picArtist)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -153,6 +174,7 @@
         private System.Windows.Forms.GroupBox grbMusicGenres;
         private System.Windows.Forms.Label lblHipHopSubtext;
         private System.Windows.Forms.Label lblHipHopHeading;
+        private System.Windows.Forms.PictureBox picArtist;
     }
 }
 

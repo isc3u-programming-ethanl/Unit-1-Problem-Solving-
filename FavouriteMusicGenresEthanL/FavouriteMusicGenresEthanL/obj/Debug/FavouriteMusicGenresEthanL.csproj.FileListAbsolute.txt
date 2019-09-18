@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\bin\Debug\FavouriteMusicGenresEthanL.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\bin\Debug\FavouriteMusicGenresEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\bin\Debug\FavouriteMusicGenresEthanL.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\obj\Debug\FavouriteMusicGenresEthanL.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\obj\Debug\FavouriteMusicGenresEthanL.frmFavouriteMusicGenres.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\obj\Debug\FavouriteMusicGenresEthanL.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\obj\Debug\FavouriteMusicGenresEthanL.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\obj\Debug\FavouriteMusicGenresEthanL.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\obj\Debug\FavouriteMusicGenresEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 1 (Problem Solving)\FavouriteMusicGenresEthanL\FavouriteMusicGenresEthanL\obj\Debug\FavouriteMusicGenresEthanL.pdb
