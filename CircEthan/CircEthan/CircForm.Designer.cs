@@ -129,7 +129,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmCirc";
-            this.Text = "Form1";
+            this.Text = "Top Down Design by Ethan";
             this.Load += new System.EventHandler(this.FrmCirc_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
